@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1091174755354",
+    "project_id": "prac-http-1b47b",
+    "storage_bucket": "prac-http-1b47b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091174755354:android:d831ad48f6bf7629c2b5a3",
+        "android_client_info": {
+          "package_name": "com.example.prac_http_api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091174755354-239s1f1tbo2cl5bep9h4m3nsduqdueuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLpdYQhRSWXtQFSH6b-hNw8bKnAlu75sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091174755354-239s1f1tbo2cl5bep9h4m3nsduqdueuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
